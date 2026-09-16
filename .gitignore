@@ -1,0 +1,14 @@
+venv/
+.env
+credentials.json
+token.json
+log_mails.txt
+correos_nuevos/
+para_revisar/
+aprobados/
+enviados/
+Trivial_respondido/
+Requiere_humano/
+Sin_clasificar/
+__pycache__/
+*.pyc
